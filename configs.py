@@ -3,8 +3,8 @@ import os
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "29849415"))
   API_HASH = os.environ.get("API_HASH", "0dd6c10897b85d7f10a8dcdeb74f8b8a")
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6017754784:AAHjl6vXYxCME51WlL2WmgOPxfAe7s5DDi4")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "PERMANENT_FILE_STORE_PRO_bot")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6554190225:AAE3MDqF3FXrKQWHbb_TZdnaZO2d9h24nfg")
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "PRO_FILE_SAVE_BOT")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001763943446"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "TinyFy.in")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "f999bc3f142a37b8db08754279b7be7a81ef8604")
