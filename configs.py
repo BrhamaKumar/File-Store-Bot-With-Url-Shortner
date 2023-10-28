@@ -3,8 +3,8 @@ import os
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "29849415"))
   API_HASH = os.environ.get("API_HASH", "0dd6c10897b85d7f10a8dcdeb74f8b8a")
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6533857381:AAF0fbE_1DwLIsW0-j0nfFd9zKAoYHAhyn8")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "ALL_SHORTLINK_BYPASS_UNSHORT_bot")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6017754784:AAHjl6vXYxCME51WlL2WmgOPxfAe7s5DDi4")
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "PERMANENT_FILE_STORE_PRO_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001763943446"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "TinyFy.in")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "f999bc3f142a37b8db08754279b7be7a81ef8604")
@@ -32,11 +32,11 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VJ](https://telegram.me/KingVj01)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [SUDIP](https://telegram.me/SUDIPSAHA06)
  
- I am Super noob Please Support My Hard Work.
+ I am not professional bot developer Please Support My Hard Work.
 
-[Donate Me](https://t.me/KingVj01)
+[Donate Me](https://t.me/SUDIPSAHA06)
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
