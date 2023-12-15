@@ -5,7 +5,7 @@ class Config(object):
   API_HASH = os.environ.get("API_HASH", "b7ad8866d5e43af0126d464b5e296c90")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6950055751:AAHLTqvZRn65qVVSrn5P_-Ff6GSDT9YBdG0")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "File_Store_fdo4u_bot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002055946135"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002113494145"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "linkpays.in")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "7ff8596cec1822720836bba82abd2a59a6e9c025")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "5019308664"))
