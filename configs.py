@@ -7,7 +7,7 @@ class Config(object):
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "File_Store_fdo4u_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002055946135"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "linkpays.in")
-  SHORTLINK_API = os.environ.get('SHORTLINK_API', "7ff8596cec1822720836bba82abd2a59a6e9c025)
+  SHORTLINK_API = os.environ.get('SHORTLINK_API', "7ff8596cec1822720836bba82abd2a59a6e9c025")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "5019308664"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://gitadevidevi053:Brhama025@cluster0.9rj57mi.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002100606311")
